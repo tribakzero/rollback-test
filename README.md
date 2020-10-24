@@ -7,3 +7,4 @@ CHANGELOG:
 - Initial repo state, with a basic README and this line.
 - I'm making extra changes directly to **main** branch to simulate lots of PRs already in.
 - Let's keep going, I'm already enjoying this hahaha.
+- Happy to see you, funny one.
