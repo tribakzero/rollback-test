@@ -7,9 +7,4 @@ CHANGELOG:
 - Initial repo state, with a basic README and this line.
 - I'm making extra changes directly to **main** branch to simulate lots of PRs already in.
 - Let's keep going, I'm already enjoying this hahaha.
-- this is getting boring... yeah, this quick.
-- Enough, I'll binge watch a Netflix Series instead.
-- YEAH! And have some popcorns and soda to eat all weekend!!!
-- What about a bar of chocolate too?
-- PIZZA too?
-- what about `un poco de tequila`?
+- Oh boy, that backfired quickly. Luckily I'm able to rewrite history.
