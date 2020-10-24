@@ -9,4 +9,4 @@ CHANGELOG:
 - Let's keep going, I'm already enjoying this hahaha.
 - this is getting boring... yeah, this quick.
 - Enough, I'll binge watch a Netflix Series instead.
-- YEAH! And have some popcorns for breakfast!
+- YEAH! And have some popcorns and soda for breakfast!
