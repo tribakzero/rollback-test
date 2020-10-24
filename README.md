@@ -12,3 +12,4 @@ CHANGELOG:
 - YEAH! And have some popcorns and soda to eat all weekend!!!
 - What about a bar of chocolate too?
 - PIZZA too?
+- what about `un poco de tequila`?
